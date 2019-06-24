@@ -4,11 +4,93 @@
     <title>Tags on armfazh</title>
     <link>https://armfazh.github.io/tags/</link>
     <description>Recent content in Tags on armfazh</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://armfazh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://armfazh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>montgomery ladder</title>
+      <link>https://armfazh.github.io/tags/montgomery-ladder/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/tags/montgomery-ladder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>montgomery reduction</title>
+      <link>https://armfazh.github.io/tags/montgomery-reduction/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/tags/montgomery-reduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post-quantum cryptography</title>
+      <link>https://armfazh.github.io/tags/post-quantum-cryptography/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/tags/post-quantum-cryptography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sidh protocol</title>
+      <link>https://armfazh.github.io/tags/sidh-protocol/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/tags/sidh-protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aes-ni</title>
+      <link>https://armfazh.github.io/tags/aes-ni/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/tags/aes-ni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data encryption</title>
+      <link>https://armfazh.github.io/tags/data-encryption/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/tags/data-encryption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hash-based digital signatures</title>
+      <link>https://armfazh.github.io/tags/hash-based-digital-signatures/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/tags/hash-based-digital-signatures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sha-ni</title>
+      <link>https://armfazh.github.io/tags/sha-ni/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/tags/sha-ni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vector instructions</title>
+      <link>https://armfazh.github.io/tags/vector-instructions/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/tags/vector-instructions/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

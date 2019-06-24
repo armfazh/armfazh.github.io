@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julio López on armfazh</title>
+    <link>https://armfazh.github.io/authors/julio-lopez/</link>
+    <description>Recent content in Julio López on armfazh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://armfazh.github.io/authors/julio-lopez/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Faster Software Implementation of the Supersingular Isogeny Diffie-Hellman Key Exchange Protocol</title>
+      <link>https://armfazh.github.io/publication/faz-lop-och-rod-2017/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/publication/faz-lop-och-rod-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to (Pre-)Compute a Ladder: Improving the Performance of X25519 and X448</title>
+      <link>https://armfazh.github.io/publication/oliveira-lhfr-2017/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/publication/oliveira-lhfr-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoK: A Performance Evaluation of Cryptographic Instruction Sets on Modern Architectures</title>
+      <link>https://armfazh.github.io/publication/faz-lop-oli-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/publication/faz-lop-oli-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Secure and Efficient Implementation of the Quotient Digital Signature Algorithm (qDSA)</title>
+      <link>https://armfazh.github.io/publication/faz-fujii-aranha-lopez-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/publication/faz-fujii-aranha-lopez-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding up Elliptic Curve Cryptography on the P-384 Curve</title>
+      <link>https://armfazh.github.io/publication/faz-lopez-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/publication/faz-lopez-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Implementation of Curve25519 Using AVX2</title>
+      <link>https://armfazh.github.io/publication/faz-lopez-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/publication/faz-lopez-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Software Implementation of Arithmetic Operations on Prime Fields using AVX2</title>
+      <link>https://armfazh.github.io/publication/faz-lopez-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/publication/faz-lopez-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster Implementation of Scalar Multiplication on Koblitz Curves</title>
+      <link>https://armfazh.github.io/publication/ara-faz-lop-rod-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/publication/ara-faz-lop-rod-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speeding scalar multiplication over binary elliptic curves using the new carry-less multiplication instruction</title>
+      <link>https://armfazh.github.io/publication/tav-faz-ara-rod-han-lop-jcen-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/publication/tav-faz-ara-rod-han-lop-jcen-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Implementation of Binary Elliptic Curves: Impact of the Carry-Less Multiplier on Scalar Multiplication</title>
+      <link>https://armfazh.github.io/publication/tav-faz-ara-rod-han-lop-ches-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://armfazh.github.io/publication/tav-faz-ara-rod-han-lop-ches-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

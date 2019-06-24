@@ -1,0 +1,41 @@
+@inproceedings{FazLongaSanchez2014,
+ abstract = {
+We propose efficient algorithms and formulas that improve the performance
+of side-channel protected scalar multiplication exploiting the 
+Gallant-Lambert-Vanstone (CRYPTO 2001) and Galbraith-Lin-Scott (EUROCRYPT
+2009) methods. Firstly, by adapting Feng et al.'s recoding to the GLV 
+setting, we derive new regular algorithms for variable-base scalar 
+multiplication that offer protection against simple side-channel and timing 
+attacks. Secondly, we propose an efficient technique that interleaves 
+ARM-based and NEON-based multiprecision operations over an extension field,
+as typically found on GLS curves and pairing computations, to improve
+performance on modern ARM processors. Finally, we showcase the efficiency
+of the proposed techniques by implementing a state-of-the-art GLV-GLS
+curve in twisted Edwards form defined over $F\_p^2$, which supports
+a four dimensional decomposition of the scalar and runs in constant time,
+i.e., it is fully protected against timing attacks. For instance, using
+a precomputed table of only 512 bytes, we compute a variable-base scalar
+multiplication in 92,000 cycles on an Intel Ivy Bridge processor and in
+244,000 cycles on an ARM Cortex-A15 processor. Our benchmark results and
+the proposed techniques contribute to the improvement of the 
+state-of-the-art performance of elliptic curve computations. Most notably,
+our techniques allow us to reduce the cost of adding protection against
+timing attacks in the GLV-based variable-base scalar multiplication
+computation to below 10%.
+},
+ address = {Cham},
+ author = {
+Armando Faz-Hernández and 
+Patrick Longa and 
+Ana H. Sánchez
+},
+ booktitle = {Topics in Cryptology - CT-RSA 2014},
+ doi = {10.1007/978-3-319-04852-9_1},
+ editor = {Josh Benaloh},
+ isbn = {978-3-319-04852-9},
+ pages = {1-27},
+ publisher = {Springer International Publishing},
+ title = {Efficient and Secure Algorithms for GLV-Based Scalar Multiplication and Their Implementation on GLV-GLS Curves},
+ year = {2014}
+}
+

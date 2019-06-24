@@ -1,0 +1,31 @@
+@inproceedings{FazLopez2016,
+ abstract = {
+The P-384 is one of the standardized elliptic curves by ANSI and 
+NIST. This curve provides a 192-bit security level and is used in 
+the computation of digital signatures and key-agreement protocols.
+Although several publicly-available cryptographic libraries support
+the P-384 curve, they have a poor performance. In this work, we 
+present software techniques for accelerating cryptographic operations
+using the P-384 curve; first, we use the latest vector instructions
+of Intel processors to implement the prime field arithmetic; second,
+we devise a parallel scheduling of the complete formulas for point
+addition law. As a result, on Skylake micro-architecture, our
+software implementation is 15% and 40% faster than the OpenSSL
+library for computing ECDSA signatures and the ECDH protocol, 
+respectively.
+},
+ author = {
+Armando Faz-Hernández and 
+Julio López
+},
+ booktitle = {XVI Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais},
+ month = {Nov},
+ pages = {170-183},
+ pdf = {https://www.lasca.ic.unicamp.br/media/publications/ST4-1.pdf},
+ publisher = {Sociedade Brasileira de Computação - SBC},
+ title = {Speeding up Elliptic Curve Cryptography on the P-384 Curve},
+ url = {http://sbseg2016.ic.uff.br/pt/files/anais.pdf},
+ volume = {16},
+ year = {2016}
+}
+
