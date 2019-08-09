@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content=" The latest processors have included extensions to the instruction set architecture tailored to speed up the execution of cryptographic algorithms. Like the AES New Instructions (AES-NI) that target the AES encryption algorithm, the release of the SHA New Instructions (SHA-NI), designed to support the SHA-256 hash function, introduces a new scenario for optimizing cryptographic software. In this work, we present a performance evaluation of several cryptographic algorithms, hash-based signatures and data encryption, on platforms that support AES-NI and/or SHA-NI. In particular, we revisited several optimization techniques targeting multiple-message hashing, and as a result, we reduce by 21% the running time of this task by means of a pipelined SHA-NI implementation. In public-key cryptography, multiple-message hashing is one of the critical operations of the XMSS and XMSS^MT post-quantum hash-based digital signatures. Using SHA-NI extensions, signatures are computed 4x faster; however, our pipelined SHA-NI implementation increased this speedup factor to 4.3x. For symmetric cryptography, we revisited the implementation of AES modes of operation and reduced by 12% and 7% the running time of CBC decryption and CTR encryption, respectively. ">
+  <meta name="description" content=" Elliptic curve cryptosystems are considered an efficient alternative to conventional systems such as DSA and RSA. Recently, Montgomery and Edwards elliptic curves have been used to implement cryptosystems. In particular, the elliptic curves Curve25519 and Curve448 were used for instantiating Diffie-Hellman protocols named X25519 and X448. Mapping these curves to twisted Edwards curves allowed deriving two new signature instances, called Ed25519 and Ed448, of the Edwards Digital Signature Algorithm. In this work, we focus on the secure and efficient software implementation of these algorithms using SIMD parallel processing. We present software techniques that target the Intel AVX2 vector instruction set for accelerating prime field arithmetic and elliptic curve operations. Our contributions result in a high-performance software library for AVX2-ready processors. For example, our library computes digital signatures 19% (for Ed25519) and 29% (for Ed448) faster than previous optimized implementations. Also, our library improves by 10% and 20% the execution time of X25519 and X448, respectively. ">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://armfazh.github.io/publication/faz-lop-oli-2018/">
+  <link rel="alternate" hreflang="en-us" href="https://armfazh.github.io/publication/faz-lop-dah-toms-2019/">
 
   
 
@@ -110,7 +110,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://armfazh.github.io/publication/faz-lop-oli-2018/">
+  <link rel="canonical" href="https://armfazh.github.io/publication/faz-lop-dah-toms-2019/">
 
   
   
@@ -125,14 +125,14 @@
   <meta property="twitter:creator" content="@armfazh">
   
   <meta property="og:site_name" content="armfazh">
-  <meta property="og:url" content="https://armfazh.github.io/publication/faz-lop-oli-2018/">
-  <meta property="og:title" content="SoK: A Performance Evaluation of Cryptographic Instruction Sets on Modern Architectures | armfazh">
-  <meta property="og:description" content=" The latest processors have included extensions to the instruction set architecture tailored to speed up the execution of cryptographic algorithms. Like the AES New Instructions (AES-NI) that target the AES encryption algorithm, the release of the SHA New Instructions (SHA-NI), designed to support the SHA-256 hash function, introduces a new scenario for optimizing cryptographic software. In this work, we present a performance evaluation of several cryptographic algorithms, hash-based signatures and data encryption, on platforms that support AES-NI and/or SHA-NI. In particular, we revisited several optimization techniques targeting multiple-message hashing, and as a result, we reduce by 21% the running time of this task by means of a pipelined SHA-NI implementation. In public-key cryptography, multiple-message hashing is one of the critical operations of the XMSS and XMSS^MT post-quantum hash-based digital signatures. Using SHA-NI extensions, signatures are computed 4x faster; however, our pipelined SHA-NI implementation increased this speedup factor to 4.3x. For symmetric cryptography, we revisited the implementation of AES modes of operation and reduced by 12% and 7% the running time of CBC decryption and CTR encryption, respectively. "><meta property="og:image" content="https://armfazh.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://armfazh.github.io/publication/faz-lop-dah-toms-2019/">
+  <meta property="og:title" content="High-performance Implementation of Elliptic Curve Cryptography Using Vector Instructions | armfazh">
+  <meta property="og:description" content=" Elliptic curve cryptosystems are considered an efficient alternative to conventional systems such as DSA and RSA. Recently, Montgomery and Edwards elliptic curves have been used to implement cryptosystems. In particular, the elliptic curves Curve25519 and Curve448 were used for instantiating Diffie-Hellman protocols named X25519 and X448. Mapping these curves to twisted Edwards curves allowed deriving two new signature instances, called Ed25519 and Ed448, of the Edwards Digital Signature Algorithm. In this work, we focus on the secure and efficient software implementation of these algorithms using SIMD parallel processing. We present software techniques that target the Intel AVX2 vector instruction set for accelerating prime field arithmetic and elliptic curve operations. Our contributions result in a high-performance software library for AVX2-ready processors. For example, our library computes digital signatures 19% (for Ed25519) and 29% (for Ed448) faster than previous optimized implementations. Also, our library improves by 10% and 20% the execution time of X25519 and X448, respectively. "><meta property="og:image" content="https://armfazh.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2019-08-09T06:53:47&#43;00:00">
   
-  <meta property="article:modified_time" content="2018-01-01T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2019-07-01T00:00:00&#43;00:00">
   
 
   
@@ -144,7 +144,7 @@
 
 
 
-  <title>SoK: A Performance Evaluation of Cryptographic Instruction Sets on Modern Architectures | armfazh</title>
+  <title>High-performance Implementation of Elliptic Curve Cryptography Using Vector Instructions | armfazh</title>
 
 </head>
 
@@ -369,7 +369,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">SoK: A Performance Evaluation of Cryptographic Instruction Sets on Modern Architectures</h1>
+  <h1 itemprop="name">High-performance Implementation of Elliptic Curve Cryptography Using Vector Instructions</h1>
 
   
 
@@ -378,8 +378,8 @@
 
 
 
-<meta content="2018-01-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2018-01-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2019-07-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2019-07-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -392,7 +392,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/armando-faz-hernandez/">Armando Faz-Hernandez</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/julio-lopez/">Julio López</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ana-karina-d.-s.-de-oliveira/">Ana Karina D. S. de Oliveira</a></span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/armando-faz-hernandez/">Armando Faz-Hernández</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/julio-lopez/">Julio López</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ricardo-dahab/">Ricardo Dahab</a></span>
 
   </div>
   
@@ -404,7 +404,7 @@
     
       
     
-    <time>January 2018</time>
+    <time>July 2019</time>
   </span>
   
 
@@ -431,7 +431,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://armfazh.github.io/publication/faz-lop-oli-2018/&amp;text=SoK:%20A%20Performance%20Evaluation%20of%20Cryptographic%20Instruction%20Sets%20on%20Modern%20Architectures" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://armfazh.github.io/publication/faz-lop-dah-toms-2019/&amp;text=High-performance%20Implementation%20of%20Elliptic%20Curve%20Cryptography%20Using%20Vector%20Instructions" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -444,7 +444,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://armfazh.github.io/publication/faz-lop-oli-2018/&amp;t=SoK:%20A%20Performance%20Evaluation%20of%20Cryptographic%20Instruction%20Sets%20on%20Modern%20Architectures" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://armfazh.github.io/publication/faz-lop-dah-toms-2019/&amp;t=High-performance%20Implementation%20of%20Elliptic%20Curve%20Cryptography%20Using%20Vector%20Instructions" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook-f"></i>
         </a>
       </li>
@@ -457,7 +457,7 @@
       
       
       <li>
-        <a href="mailto:?subject=SoK:%20A%20Performance%20Evaluation%20of%20Cryptographic%20Instruction%20Sets%20on%20Modern%20Architectures&amp;body=https://armfazh.github.io/publication/faz-lop-oli-2018/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=High-performance%20Implementation%20of%20Elliptic%20Curve%20Cryptography%20Using%20Vector%20Instructions&amp;body=https://armfazh.github.io/publication/faz-lop-dah-toms-2019/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -470,7 +470,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://armfazh.github.io/publication/faz-lop-oli-2018/&amp;title=SoK:%20A%20Performance%20Evaluation%20of%20Cryptographic%20Instruction%20Sets%20on%20Modern%20Architectures" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://armfazh.github.io/publication/faz-lop-dah-toms-2019/&amp;title=High-performance%20Implementation%20of%20Elliptic%20Curve%20Cryptography%20Using%20Vector%20Instructions" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -483,7 +483,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=SoK:%20A%20Performance%20Evaluation%20of%20Cryptographic%20Instruction%20Sets%20on%20Modern%20Architectures%20https://armfazh.github.io/publication/faz-lop-oli-2018/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=High-performance%20Implementation%20of%20Elliptic%20Curve%20Cryptography%20Using%20Vector%20Instructions%20https://armfazh.github.io/publication/faz-lop-dah-toms-2019/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -496,7 +496,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://armfazh.github.io/publication/faz-lop-oli-2018/&amp;title=SoK:%20A%20Performance%20Evaluation%20of%20Cryptographic%20Instruction%20Sets%20on%20Modern%20Architectures" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://armfazh.github.io/publication/faz-lop-dah-toms-2019/&amp;title=High-performance%20Implementation%20of%20Elliptic%20Curve%20Cryptography%20Using%20Vector%20Instructions" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -542,14 +542,14 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="http://doi.acm.org/10.1145/3197507.3197511" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1145/3309759" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/faz-lop-oli-2018/faz-lop-oli-2018.bib">
+        data-filename="/publication/faz-lop-dah-toms-2019/faz-lop-dah-toms-2019.bib">
   Cite
 </button>
 
@@ -565,7 +565,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1145/3197507.3197511" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1145/3309759" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -583,7 +583,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">The latest processors have included extensions to the instruction set architecture tailored to speed up the execution of cryptographic algorithms. Like the AES New Instructions (AES-NI) that target the AES encryption algorithm, the release of the SHA New Instructions (SHA-NI), designed to support the SHA-256 hash function, introduces a new scenario for optimizing cryptographic software. In this work, we present a performance evaluation of several cryptographic algorithms, hash-based signatures and data encryption, on platforms that support AES-NI and/or SHA-NI. In particular, we revisited several optimization techniques targeting multiple-message hashing, and as a result, we reduce by 21% the running time of this task by means of a pipelined SHA-NI implementation. In public-key cryptography, multiple-message hashing is one of the critical operations of the XMSS and XMSS^MT post-quantum hash-based digital signatures. Using SHA-NI extensions, signatures are computed 4x faster; however, our pipelined SHA-NI implementation increased this speedup factor to 4.3x. For symmetric cryptography, we revisited the implementation of AES modes of operation and reduced by 12% and 7% the running time of CBC decryption and CTR encryption, respectively.</p>
+    <p class="pub-abstract" itemprop="text">Elliptic curve cryptosystems are considered an efficient alternative to conventional systems such as DSA and RSA. Recently, Montgomery and Edwards elliptic curves have been used to implement cryptosystems. In particular, the elliptic curves Curve25519 and Curve448 were used for instantiating Diffie-Hellman protocols named X25519 and X448. Mapping these curves to twisted Edwards curves allowed deriving two new signature instances, called Ed25519 and Ed448, of the Edwards Digital Signature Algorithm. In this work, we focus on the secure and efficient software implementation of these algorithms using SIMD parallel processing. We present software techniques that target the Intel AVX2 vector instruction set for accelerating prime field arithmetic and elliptic curve operations. Our contributions result in a high-performance software library for AVX2-ready processors. For example, our library computes digital signatures 19% (for Ed25519) and 29% (for Ed448) faster than previous optimized implementations. Also, our library improves by 10% and 20% the execution time of X25519 and X448, respectively.</p>
     
 
     
@@ -595,8 +595,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#2">
+              Journal article
             </a>
             
           </div>
@@ -613,7 +613,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop</em></div>
+          <div class="col-12 col-md-9"><em>ACM Transactions on Mathematical Software (TOMS)</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -626,20 +626,6 @@
     <div class="article-style"></div>
 
     
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/aes-ni/">aes-ni</a>
-  
-  <a class="badge badge-light" href="/tags/data-encryption/">data encryption</a>
-  
-  <a class="badge badge-light" href="/tags/hash-based-digital-signatures/">hash-based digital signatures</a>
-  
-  <a class="badge badge-light" href="/tags/sha-ni/">sha-ni</a>
-  
-  <a class="badge badge-light" href="/tags/vector-instructions/">vector instructions</a>
-  
-</div>
 
 
     

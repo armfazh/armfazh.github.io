@@ -1,30 +1,30 @@
 @inproceedings{FazLopOli2018,
  abstract = {
 The latest processors have included extensions to the instruction set
-architecture tailored to speed up the execution of cryptographic 
+architecture tailored to speed up the execution of cryptographic
 algorithms. Like the AES New Instructions (AES-NI) that target the AES
 encryption algorithm, the release of the SHA New Instructions (SHA-NI),
 designed to support the SHA-256 hash function, introduces a new scenario
-for optimizing cryptographic software. In this work, we present a 
+for optimizing cryptographic software. In this work, we present a
 performance evaluation of several cryptographic algorithms, hash-based
-signatures and data encryption, on platforms that support AES-NI and/or 
-SHA-NI. In particular, we revisited several optimization techniques 
+signatures and data encryption, on platforms that support AES-NI and/or
+SHA-NI. In particular, we revisited several optimization techniques
 targeting multiple-message hashing, and as a result, we reduce by 21%
-the running time of this task by means of a pipelined SHA-NI 
-implementation. In public-key cryptography, multiple-message hashing 
-is one of the critical operations of the XMSS and XMSS^MT post-quantum 
+the running time of this task by means of a pipelined SHA-NI
+implementation. In public-key cryptography, multiple-message hashing
+is one of the critical operations of the XMSS and XMSS^MT post-quantum
 hash-based digital signatures. Using SHA-NI extensions, signatures are
-computed 4x faster; however, our pipelined SHA-NI implementation 
-increased this speedup factor to 4.3x. For symmetric cryptography, we 
+computed 4x faster; however, our pipelined SHA-NI implementation
+increased this speedup factor to 4.3x. For symmetric cryptography, we
 revisited the implementation of AES modes of operation and reduced by
-12% and 7% the running time of CBC decryption and CTR encryption, 
+12% and 7% the running time of CBC decryption and CTR encryption,
 respectively.
 },
  acmid = {3197511},
  address = {New York, NY, USA},
  author = {
-Armando Faz-Hernandez and 
-Julio López and 
+Armando Faz-Hernandez and
+Julio López and
 Ana Karina D. S. de Oliveira
 },
  booktitle = {Proceedings of the 5th ACM on ASIA Public-Key Cryptography Workshop},

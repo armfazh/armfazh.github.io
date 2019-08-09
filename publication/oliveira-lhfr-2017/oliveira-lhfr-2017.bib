@@ -2,31 +2,31 @@
  abstract = {
 In the RFC 7748 memorandum, the Internet Research Task Force specified
 a Montgomery-ladder scalar multiplication function based on two recently
-adopted elliptic curves, Curve25519 and Curve448. The purpose 
+adopted elliptic curves, Curve25519 and Curve448. The purpose
 of this function is to support the Diffie-Hellman key exchange algorithm
 that will be included in the forthcoming version of the Transport Layer
-Security cryptographic protocol. In this paper, we describe a ladder 
-variant that permits to accelerate the fixed-point multiplication 
-function inherent to the Diffie-Hellman key pair generation phase. 
+Security cryptographic protocol. In this paper, we describe a ladder
+variant that permits to accelerate the fixed-point multiplication
+function inherent to the Diffie-Hellman key pair generation phase.
 Our proposal combines a right-to-left version of the Montgomery ladder
 along with the pre-computation of constant values directly derived from
-the base-point and its multiples. To our knowledge, this is the first 
-proposal of a Montgomery ladder procedure for prime elliptic curves 
+the base-point and its multiples. To our knowledge, this is the first
+proposal of a Montgomery ladder procedure for prime elliptic curves
 that admits the extensive use of pre-computation. In exchange of very
-modest memory resources and a small extra programming effort, the 
-proposed ladder obtains significant speedups for software 
-implementations. Moreover, our proposal fully complies with the RFC 
+modest memory resources and a small extra programming effort, the
+proposed ladder obtains significant speedups for software
+implementations. Moreover, our proposal fully complies with the RFC
 7748 specification. A software implementation of the X25519 and X448
 functions using our pre-computable ladder yields an acceleration factor
-of roughly 1.20, and 1.25 when implemented on the Haswell and the 
+of roughly 1.20, and 1.25 when implemented on the Haswell and the
 Skylake micro-architectures, respectively.
 },
  address = {Cham},
  author = {
-Thomaz Oliveira and 
-Julio López and 
-Hüseyin Hişil and 
-Armando Faz-Hernández and 
+Thomaz Oliveira and
+Julio López and
+Hüseyin Hişil and
+Armando Faz-Hernández and
 Francisco Rodríguez-Henríquez
 },
  booktitle = {Selected Areas in Cryptography - SAC 2017},
