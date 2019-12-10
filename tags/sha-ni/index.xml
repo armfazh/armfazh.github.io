@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sha-ni on armfazh</title>
+    <title>sha-ni | armfazh</title>
     <link>https://armfazh.github.io/tags/sha-ni/</link>
-    <description>Recent content in sha-ni on armfazh</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://armfazh.github.io/tags/sha-ni/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://armfazh.github.io/tags/sha-ni/index.xml" rel="self" type="application/rss+xml" />
+    <description>sha-ni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://armfazh.github.io/img/icon-192.png</url>
+      <title>sha-ni</title>
+      <link>https://armfazh.github.io/tags/sha-ni/</link>
+    </image>
     
     <item>
       <title>SoK: A Performance Evaluation of Cryptographic Instruction Sets on Modern Architectures</title>
       <link>https://armfazh.github.io/publication/faz-lop-oli-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://armfazh.github.io/publication/faz-lop-oli-2018/</guid>
       <description></description>
     </item>

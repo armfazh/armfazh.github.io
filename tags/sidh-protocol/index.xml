@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sidh protocol on armfazh</title>
+    <title>sidh protocol | armfazh</title>
     <link>https://armfazh.github.io/tags/sidh-protocol/</link>
-    <description>Recent content in sidh protocol on armfazh</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://armfazh.github.io/tags/sidh-protocol/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://armfazh.github.io/tags/sidh-protocol/index.xml" rel="self" type="application/rss+xml" />
+    <description>sidh protocol</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://armfazh.github.io/img/icon-192.png</url>
+      <title>sidh protocol</title>
+      <link>https://armfazh.github.io/tags/sidh-protocol/</link>
+    </image>
     
     <item>
       <title>A Faster Software Implementation of the Supersingular Isogeny Diffie-Hellman Key Exchange Protocol</title>
       <link>https://armfazh.github.io/publication/faz-lop-och-rod-2017/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://armfazh.github.io/publication/faz-lop-och-rod-2017/</guid>
       <description></description>
     </item>

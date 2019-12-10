@@ -1,23 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://armfazh.github.io/publication_types/2/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://armfazh.github.io/authors/armando-faz-hernandez/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://armfazh.github.io/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://armfazh.github.io/authors/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -28,13 +30,11 @@
   <url>
     <loc>https://armfazh.github.io/authors/julio-lopez/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://armfazh.github.io/publication_types/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -45,13 +45,6 @@
   <url>
     <loc>https://armfazh.github.io/authors/ricardo-dahab/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://armfazh.github.io/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -62,55 +55,61 @@
   <url>
     <loc>https://armfazh.github.io/authors/eduardo-ochoa-jimenez/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://armfazh.github.io/authors/francisco-rodriguez-henriquez/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://armfazh.github.io/tags/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://armfazh.github.io/tags/montgomery-ladder/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://armfazh.github.io/tags/montgomery-reduction/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://armfazh.github.io/tags/post-quantum-cryptography/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://armfazh.github.io/tags/sidh-protocol/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://armfazh.github.io/tags/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://armfazh.github.io/publication_types/1/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://armfazh.github.io/tags/aes-ni/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://armfazh.github.io/authors/ana-karina-d.-s.-de-oliveira/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://armfazh.github.io/tags/data-encryption/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://armfazh.github.io/tags/hash-based-digital-signatures/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -121,7 +120,11 @@
   <url>
     <loc>https://armfazh.github.io/authors/huseyin-hisil/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://armfazh.github.io/tags/sha-ni/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -132,37 +135,11 @@
   <url>
     <loc>https://armfazh.github.io/authors/thomaz-oliveira/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://armfazh.github.io/tags/aes-ni/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://armfazh.github.io/tags/data-encryption/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://armfazh.github.io/tags/hash-based-digital-signatures/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://armfazh.github.io/tags/sha-ni/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://armfazh.github.io/tags/vector-instructions/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -173,13 +150,11 @@
   <url>
     <loc>https://armfazh.github.io/authors/diego-f.-aranha/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://armfazh.github.io/authors/hayato-fujii/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -190,7 +165,6 @@
   <url>
     <loc>https://armfazh.github.io/authors/ana-h.-sanchez/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -201,7 +175,6 @@
   <url>
     <loc>https://armfazh.github.io/authors/patrick-longa/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -227,13 +200,11 @@
   <url>
     <loc>https://armfazh.github.io/authors/darrel-hankerson/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://armfazh.github.io/authors/jonathan-taverne/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -252,7 +223,6 @@
   
   <url>
     <loc>https://armfazh.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

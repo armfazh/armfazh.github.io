@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on armfazh</title>
+    <title>Authors | armfazh</title>
     <link>https://armfazh.github.io/authors/</link>
-    <description>Recent content in Authors on armfazh</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://armfazh.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://armfazh.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://armfazh.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://armfazh.github.io/authors/</link>
+    </image>
     
     <item>
       <title>Armando Faz-Hernández</title>
       <link>https://armfazh.github.io/authors/armando-faz-hernandez/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://armfazh.github.io/authors/armando-faz-hernandez/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Julio López</title>
       <link>https://armfazh.github.io/authors/julio-lopez/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://armfazh.github.io/authors/julio-lopez/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Ricardo Dahab</title>
       <link>https://armfazh.github.io/authors/ricardo-dahab/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://armfazh.github.io/authors/ricardo-dahab/</guid>
       <description></description>
     </item>
@@ -42,7 +40,6 @@
       <title>Eduardo Ochoa-Jiménez</title>
       <link>https://armfazh.github.io/authors/eduardo-ochoa-jimenez/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://armfazh.github.io/authors/eduardo-ochoa-jimenez/</guid>
       <description></description>
     </item>
@@ -51,7 +48,6 @@
       <title>Francisco Rodríguez-Henríquez</title>
       <link>https://armfazh.github.io/authors/francisco-rodriguez-henriquez/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://armfazh.github.io/authors/francisco-rodriguez-henriquez/</guid>
       <description></description>
     </item>
@@ -60,7 +56,6 @@
       <title>Ana Karina D. S. de Oliveira</title>
       <link>https://armfazh.github.io/authors/ana-karina-d.-s.-de-oliveira/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://armfazh.github.io/authors/ana-karina-d.-s.-de-oliveira/</guid>
       <description></description>
     </item>
@@ -69,7 +64,6 @@
       <title>Hüseyin Hişil</title>
       <link>https://armfazh.github.io/authors/huseyin-hisil/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://armfazh.github.io/authors/huseyin-hisil/</guid>
       <description></description>
     </item>
@@ -78,7 +72,6 @@
       <title>Thomaz Oliveira</title>
       <link>https://armfazh.github.io/authors/thomaz-oliveira/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://armfazh.github.io/authors/thomaz-oliveira/</guid>
       <description></description>
     </item>
@@ -87,7 +80,6 @@
       <title>Diego F. Aranha</title>
       <link>https://armfazh.github.io/authors/diego-f.-aranha/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://armfazh.github.io/authors/diego-f.-aranha/</guid>
       <description></description>
     </item>
@@ -96,7 +88,6 @@
       <title>Hayato Fujii</title>
       <link>https://armfazh.github.io/authors/hayato-fujii/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://armfazh.github.io/authors/hayato-fujii/</guid>
       <description></description>
     </item>
@@ -105,7 +96,6 @@
       <title>Ana H. Sánchez</title>
       <link>https://armfazh.github.io/authors/ana-h.-sanchez/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://armfazh.github.io/authors/ana-h.-sanchez/</guid>
       <description></description>
     </item>
@@ -114,7 +104,6 @@
       <title>Patrick Longa</title>
       <link>https://armfazh.github.io/authors/patrick-longa/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://armfazh.github.io/authors/patrick-longa/</guid>
       <description></description>
     </item>
@@ -123,7 +112,6 @@
       <title>Darrel Hankerson</title>
       <link>https://armfazh.github.io/authors/darrel-hankerson/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://armfazh.github.io/authors/darrel-hankerson/</guid>
       <description></description>
     </item>
@@ -132,7 +120,6 @@
       <title>Jonathan Taverne</title>
       <link>https://armfazh.github.io/authors/jonathan-taverne/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://armfazh.github.io/authors/jonathan-taverne/</guid>
       <description></description>
     </item>
@@ -141,7 +128,6 @@
       <title></title>
       <link>https://armfazh.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://armfazh.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Computer scientist working on finding techniques for the secure and efficient implementation of cryptographic algorithms.&lt;/p&gt;
 </description>

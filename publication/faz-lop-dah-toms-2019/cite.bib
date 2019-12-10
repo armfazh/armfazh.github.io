@@ -1,0 +1,39 @@
+@article{FazLopDahToms2019,
+ abstract = {
+Elliptic curve cryptosystems are considered an efficient
+alternative to conventional systems such as DSA and RSA.
+Recently, Montgomery and Edwards elliptic curves have been
+used to implement cryptosystems. In particular, the elliptic
+curves Curve25519 and Curve448 were used for instantiating
+Diffie-Hellman protocols named X25519 and X448. Mapping
+these curves to twisted Edwards curves allowed deriving two
+new signature instances, called Ed25519 and Ed448, of the
+Edwards Digital Signature Algorithm. In this work, we focus
+on the secure and efficient software implementation of these
+algorithms using SIMD parallel processing. We present
+software techniques that target the Intel AVX2 vector
+instruction set for accelerating prime field arithmetic and
+elliptic curve operations. Our contributions result in a
+high-performance software library for AVX2-ready processors.
+For example, our library computes digital signatures 19%
+(for Ed25519) and 29% (for Ed448) faster than previous
+optimized implementations. Also, our library improves by 10%
+and 20% the execution time of X25519 and X448, respectively.
+},
+ author = {
+Armando Faz-Hernández and
+Julio López and
+Ricardo Dahab
+},
+ doi = {10.1145/3309759},
+ journal = {ACM Transactions on Mathematical Software (TOMS)},
+ month = {July},
+ number = {3},
+ pages = {1-35},
+ publisher = {ACM},
+ title = {High-performance Implementation of Elliptic Curve Cryptography Using Vector Instructions},
+ url = {https://dl.acm.org/authorize?N680235},
+ volume = {45},
+ year = {2019}
+}
+
