@@ -1,0 +1,34 @@
+@inproceedings{Celi2021,
+ abstract = {
+KEMTLS is a novel alternative to the Transport Layer Security (TLS)
+handshake that integrates post-quantum algorithms. It uses key
+encapsulation mechanisms (KEMs) for both confidentiality and
+authentication, achieving post-quantum security while obviating the
+need for expensive post-quantum signatures. The original KEMTLS paper
+presents a security analysis, Rust implementation, and benchmarks
+over emulated networks. In this work, we provide full Go
+implementations of KEMTLS and other post-quantum handshake
+alternatives, describe their integration into a distributed system,
+and provide performance evaluations over real network conditions.
+We compare the standard (non-quantum-resistant) TLS 1.3 handshake
+with three alternatives: one that uses post-quantum signatures in
+combination with post-quantum KEMs (PQTLS), one that uses KEMTLS,
+and one that is a reduced round trip version of KEMTLS (KEMTLS-PDK).
+In addition to the performance evaluations, we discuss how the design
+of these protocols impacts TLS from an implementation and
+configuration perspective.
+},
+ address = {Cham},
+ author = {Sofía Celi and Armando Faz-Hernández and Nick Sullivan and Goutam Tamvada and Luke Valenta and Thom Wiggers and Bas Westerbaan and Christopher A. Wood},
+ booktitle = {Progress in Cryptology – LATINCRYPT 2021},
+ doi = {10.1007/978-3-030-88238-9_5},
+ editor = {Longa, Patrick and Ràfols, Carla},
+ isbn = {978-3-030-88238-9},
+ month = {oct},
+ pages = {88–107},
+ publisher = {Springer International Publishing},
+ title = {Implementing and Measuring KEMTLS},
+ url = {https://eprint.iacr.org/2021/1019.pdf},
+ year = {2021}
+}
+

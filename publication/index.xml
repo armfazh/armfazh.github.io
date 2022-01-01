@@ -5,12 +5,36 @@
     <link>https://armfazh.github.io/publication/</link>
       <atom:link href="https://armfazh.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Armando Faz</copyright>
     <image>
-      <url>https://armfazh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://armfazh.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://armfazh.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Implementing and Measuring KEMTLS</title>
+      <link>https://armfazh.github.io/publication/celi-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://armfazh.github.io/publication/celi-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZKAttest: Ring and Group Signatures for existing ECDSA keys</title>
+      <link>https://armfazh.github.io/publication/faz-ladd-maram-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://armfazh.github.io/publication/faz-ladd-maram-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generation of Elliptic Curve Points in Tandem</title>
+      <link>https://armfazh.github.io/publication/faz-lopez-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://armfazh.github.io/publication/faz-lopez-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>High-performance Implementation of Elliptic Curve Cryptography Using Vector Instructions</title>
