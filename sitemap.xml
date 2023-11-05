@@ -2,23 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://armfazh.github.io/tag/elliptic-curves/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/hash/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/hash-to-curves/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/publication/rfc-9380/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/publication-type/manuscript/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/publication_types/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/publication/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/random-oracle/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tags/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/attribute-based-encryption/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/bilinear-pairings/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/publication-type/paper-conference/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/policy/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/publication/portunus/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/public-key-encryption/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://armfazh.github.io/</loc>
-    <lastmod>2023-10-30T00:57:33-07:00</lastmod>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/avx2/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/curve2519/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/digital-signatures/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/publication/armfazh-ph-d/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/simd/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/publication-type/thesis/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/attestation/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/captcha/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://armfazh.github.io/publication/whalen-2022/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication-type/paper-conference/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://armfazh.github.io/publication_types/</loc>
+    <loc>https://armfazh.github.io/tag/webauthn/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://armfazh.github.io/publication/celi-2021/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/kem/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/post-quantum-cryptography/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/tls/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/zero-knowledge-proof/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -27,6 +131,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://armfazh.github.io/publication/faz-lopez-2020/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/hash-to-curve/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -42,6 +150,14 @@
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://armfazh.github.io/tag/diffie-hellman/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/isogeny/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://armfazh.github.io/tag/montgomery-ladder/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -50,15 +166,7 @@
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/tag/post-quantum-cryptography/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://armfazh.github.io/tag/sidh-protocol/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://armfazh.github.io/tags/</loc>
+    <loc>https://armfazh.github.io/tag/scalar-multiplication/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -78,7 +186,19 @@
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://armfazh.github.io/tag/parallel/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/rfc7748/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://armfazh.github.io/tag/sha-ni/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/sha2/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -94,15 +214,47 @@
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://armfazh.github.io/tag/arm/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/digital-signature/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/x64/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/p-384/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/prime-field/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://armfazh.github.io/publication/faz-lopez-2016/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/aes/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://armfazh.github.io/publication-type/chapter/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://armfazh.github.io/tag/cryptography/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://armfazh.github.io/publication/faz-2015-minicursos/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/sha3/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -122,6 +274,34 @@
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://armfazh.github.io/tag/gls-endomorphism/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/glv-endomorphism/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/binary-fields/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/carryless-multiplier/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/publication/armando-m-sc-thesis/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/koblitz-curves/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/pclmulqdq/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://armfazh.github.io/publication/ara-faz-lop-rod-2012/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -135,10 +315,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://armfazh.github.io/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://armfazh.github.io/publication/</loc>
-    <lastmod>2019-05-19T02:23:30-07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

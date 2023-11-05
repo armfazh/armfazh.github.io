@@ -20,5 +20,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>How to (Pre-)Compute a Ladder: Improving the Performance of X25519 and X448</title>
+      <link>https://armfazh.github.io/publication/oliveira-lhfr-2017/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://armfazh.github.io/publication/oliveira-lhfr-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Secure and Efficient Implementation of the Quotient Digital Signature Algorithm (qDSA)</title>
+      <link>https://armfazh.github.io/publication/faz-fujii-aranha-lopez-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://armfazh.github.io/publication/faz-fujii-aranha-lopez-2017/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

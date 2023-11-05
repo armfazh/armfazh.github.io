@@ -13,6 +13,30 @@
     </image>
     
     <item>
+      <title>Hashing to Elliptic Curves</title>
+      <link>https://armfazh.github.io/publication/rfc-9380/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://armfazh.github.io/publication/rfc-9380/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portunus: Re-imagining Access Control in Distributed Systems</title>
+      <link>https://armfazh.github.io/publication/portunus/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://armfazh.github.io/publication/portunus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Performance Elliptic Curve Cryptography: A SIMD Approach to Modern Curves</title>
+      <link>https://armfazh.github.io/publication/armfazh-ph-d/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://armfazh.github.io/publication/armfazh-ph-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Let The Right One In: Attestation as a Usable CAPTCHA Alternative</title>
       <link>https://armfazh.github.io/publication/whalen-2022/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
@@ -129,6 +153,14 @@
       <link>https://armfazh.github.io/publication/faz-longa-sanchez-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://armfazh.github.io/publication/faz-longa-sanchez-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementación multinúcleo de la multiplicación escalar en curvas de Koblitz</title>
+      <link>https://armfazh.github.io/publication/armando-m-sc-thesis/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://armfazh.github.io/publication/armando-m-sc-thesis/</guid>
       <description></description>
     </item>
     

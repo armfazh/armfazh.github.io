@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AVX2 | armfazh</title>
+    <link>https://armfazh.github.io/tag/avx2/</link>
+      <atom:link href="https://armfazh.github.io/tag/avx2/index.xml" rel="self" type="application/rss+xml" />
+    <description>AVX2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://armfazh.github.io/media/icon_huf1b5177f98779283d0418195dcbc39bf_81494_512x512_fill_lanczos_center_3.png</url>
+      <title>AVX2</title>
+      <link>https://armfazh.github.io/tag/avx2/</link>
+    </image>
+    
+    <item>
+      <title>High-Performance Elliptic Curve Cryptography: A SIMD Approach to Modern Curves</title>
+      <link>https://armfazh.github.io/publication/armfazh-ph-d/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://armfazh.github.io/publication/armfazh-ph-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generation of Elliptic Curve Points in Tandem</title>
+      <link>https://armfazh.github.io/publication/faz-lopez-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://armfazh.github.io/publication/faz-lopez-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-performance Implementation of Elliptic Curve Cryptography Using Vector Instructions</title>
+      <link>https://armfazh.github.io/publication/faz-lop-dah-toms-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://armfazh.github.io/publication/faz-lop-dah-toms-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Implementation of Curve25519 Using AVX2</title>
+      <link>https://armfazh.github.io/publication/faz-lopez-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://armfazh.github.io/publication/faz-lopez-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Software Implementation of Arithmetic Operations on Prime Fields using AVX2</title>
+      <link>https://armfazh.github.io/publication/faz-lopez-2014/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://armfazh.github.io/publication/faz-lopez-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
