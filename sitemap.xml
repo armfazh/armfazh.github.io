@@ -26,10 +26,6 @@
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://armfazh.github.io/tag/random-oracle/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -63,14 +59,14 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://armfazh.github.io/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-19T02:23:30-07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://armfazh.github.io/tag/avx2/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/tag/curve2519/</loc>
+    <loc>https://armfazh.github.io/tag/curve25519/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -315,6 +311,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://armfazh.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/publication/</loc>
+    <lastmod>2019-05-19T02:23:30-07:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
