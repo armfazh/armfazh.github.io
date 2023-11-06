@@ -14,25 +14,25 @@
     
     <item>
       <title>High-Performance Elliptic Curve Cryptography: A SIMD Approach to Modern Curves</title>
-      <link>https://armfazh.github.io/publication/armfazh-ph-d/</link>
+      <link>https://armfazh.github.io/publication/faz-phd-thesis/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/armfazh-ph-d/</guid>
+      <guid>https://armfazh.github.io/publication/faz-phd-thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-performance Implementation of Elliptic Curve Cryptography Using Vector Instructions</title>
-      <link>https://armfazh.github.io/publication/faz-lop-dah-toms-2019/</link>
+      <link>https://armfazh.github.io/publication/faz-ld-toms-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lop-dah-toms-2019/</guid>
+      <guid>https://armfazh.github.io/publication/faz-ld-toms-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast Implementation of Curve25519 Using AVX2</title>
-      <link>https://armfazh.github.io/publication/faz-lopez-2015/</link>
+      <link>https://armfazh.github.io/publication/faz-lopez-latincrypt-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lopez-2015/</guid>
+      <guid>https://armfazh.github.io/publication/faz-lopez-latincrypt-2015/</guid>
       <description></description>
     </item>
     

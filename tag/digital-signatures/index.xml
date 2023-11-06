@@ -14,25 +14,41 @@
     
     <item>
       <title>High-Performance Elliptic Curve Cryptography: A SIMD Approach to Modern Curves</title>
-      <link>https://armfazh.github.io/publication/armfazh-ph-d/</link>
+      <link>https://armfazh.github.io/publication/faz-phd-thesis/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/armfazh-ph-d/</guid>
+      <guid>https://armfazh.github.io/publication/faz-phd-thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ZKAttest: Ring and Group Signatures for existing ECDSA keys</title>
-      <link>https://armfazh.github.io/publication/faz-ladd-maram-2021/</link>
+      <link>https://armfazh.github.io/publication/faz-lm-sac-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-ladd-maram-2021/</guid>
+      <guid>https://armfazh.github.io/publication/faz-lm-sac-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-performance Implementation of Elliptic Curve Cryptography Using Vector Instructions</title>
-      <link>https://armfazh.github.io/publication/faz-lop-dah-toms-2019/</link>
+      <link>https://armfazh.github.io/publication/faz-ld-toms-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lop-dah-toms-2019/</guid>
+      <guid>https://armfazh.github.io/publication/faz-ld-toms-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoK: A Performance Evaluation of Cryptographic Instruction Sets on Modern Architectures</title>
+      <link>https://armfazh.github.io/publication/faz-lo-apkc-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://armfazh.github.io/publication/faz-lo-apkc-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Secure and Efficient Implementation of the Quotient Digital Signature Algorithm (qDSA)</title>
+      <link>https://armfazh.github.io/publication/faz-fal-space-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://armfazh.github.io/publication/faz-fal-space-2017/</guid>
       <description></description>
     </item>
     

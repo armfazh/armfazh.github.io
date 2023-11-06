@@ -30,6 +30,10 @@
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://armfazh.github.io/tag/rfc9380/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://armfazh.github.io/tags/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -46,11 +50,7 @@
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/tag/policy/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://armfazh.github.io/publication/portunus/</loc>
+    <loc>https://armfazh.github.io/publication/ladd-vvfmws-atc-2023/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -74,7 +74,7 @@
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/armfazh-ph-d/</loc>
+    <loc>https://armfazh.github.io/publication/faz-phd-thesis/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -94,7 +94,7 @@
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/whalen-2022/</loc>
+    <loc>https://armfazh.github.io/publication/whalen-mkdfflmswgg-soups-2022/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -102,7 +102,11 @@
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/celi-2021/</loc>
+    <loc>https://armfazh.github.io/tag/zero-knowledge-proofs/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/publication/celi-fstvwww-latincrypt-2021/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -118,15 +122,11 @@
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/tag/zero-knowledge-proof/</loc>
+    <loc>https://armfazh.github.io/publication/faz-lm-sac-2021/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/faz-ladd-maram-2021/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://armfazh.github.io/publication/faz-lopez-2020/</loc>
+    <loc>https://armfazh.github.io/publication/faz-lopez-sbseg-2020/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -138,11 +138,19 @@
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/faz-lop-dah-toms-2019/</loc>
+    <loc>https://armfazh.github.io/publication/faz-ld-toms-2019/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/faz-lop-och-rod-2017/</loc>
+    <loc>https://armfazh.github.io/tag/rfc7748/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/tag/rfc8032/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://armfazh.github.io/publication/faz-lor-ieeetc-2017/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -174,19 +182,15 @@
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/tag/hash-based-digital-signatures/</loc>
+    <loc>https://armfazh.github.io/tag/hash-based-signatures/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/oliveira-lhfr-2017/</loc>
+    <loc>https://armfazh.github.io/publication/oliveira-lhfr-sac-2017/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://armfazh.github.io/tag/parallel/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://armfazh.github.io/tag/rfc7748/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -198,7 +202,7 @@
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/faz-lop-oli-2018/</loc>
+    <loc>https://armfazh.github.io/publication/faz-lo-apkc-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -206,15 +210,11 @@
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/faz-fujii-aranha-lopez-2017/</loc>
+    <loc>https://armfazh.github.io/publication/faz-fal-space-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://armfazh.github.io/tag/arm/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://armfazh.github.io/tag/digital-signature/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -230,7 +230,7 @@
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/faz-lopez-2016/</loc>
+    <loc>https://armfazh.github.io/publication/faz-lopez-sbseg-2016/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -246,7 +246,7 @@
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/faz-2015-minicursos/</loc>
+    <loc>https://armfazh.github.io/publication/faz-cal-sbseg-2015/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -254,19 +254,19 @@
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/faz-longa-sanchez-2015/</loc>
+    <loc>https://armfazh.github.io/publication/faz-ls-jcen-2015/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/faz-lopez-2015/</loc>
+    <loc>https://armfazh.github.io/publication/faz-lopez-latincrypt-2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/faz-lopez-2014/</loc>
+    <loc>https://armfazh.github.io/publication/faz-lopez-sbseg-2014/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/faz-longa-sanchez-2014/</loc>
+    <loc>https://armfazh.github.io/publication/faz-ls-ctrsa-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -286,7 +286,7 @@
     <lastmod>2012-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/armando-m-sc-thesis/</loc>
+    <loc>https://armfazh.github.io/publication/faz-master-thesis/</loc>
     <lastmod>2012-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -298,15 +298,15 @@
     <lastmod>2012-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/ara-faz-lop-rod-2012/</loc>
+    <loc>https://armfazh.github.io/publication/aranha-flr-latincrypt-2012/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/tav-faz-ara-rod-han-lop-jcen-2011/</loc>
+    <loc>https://armfazh.github.io/publication/taverne-farhl-jcen-2011/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://armfazh.github.io/publication/tav-faz-ara-rod-han-lop-ches-2011/</loc>
+    <loc>https://armfazh.github.io/publication/taverne-farhl-ches-2011/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

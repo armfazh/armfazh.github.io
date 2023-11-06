@@ -14,49 +14,49 @@
     
     <item>
       <title>A Faster Software Implementation of the Supersingular Isogeny Diffie-Hellman Key Exchange Protocol</title>
-      <link>https://armfazh.github.io/publication/faz-lop-och-rod-2017/</link>
+      <link>https://armfazh.github.io/publication/faz-lor-ieeetc-2017/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lop-och-rod-2017/</guid>
+      <guid>https://armfazh.github.io/publication/faz-lor-ieeetc-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to (Pre-)Compute a Ladder: Improving the Performance of X25519 and X448</title>
-      <link>https://armfazh.github.io/publication/oliveira-lhfr-2017/</link>
+      <link>https://armfazh.github.io/publication/oliveira-lhfr-sac-2017/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/oliveira-lhfr-2017/</guid>
+      <guid>https://armfazh.github.io/publication/oliveira-lhfr-sac-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Secure and Efficient Implementation of the Quotient Digital Signature Algorithm (qDSA)</title>
-      <link>https://armfazh.github.io/publication/faz-fujii-aranha-lopez-2017/</link>
+      <link>https://armfazh.github.io/publication/faz-fal-space-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-fujii-aranha-lopez-2017/</guid>
+      <guid>https://armfazh.github.io/publication/faz-fal-space-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient and secure algorithms for GLV-based scalar multiplication and their implementation on GLV-GLS curves (extended version)</title>
-      <link>https://armfazh.github.io/publication/faz-longa-sanchez-2015/</link>
+      <link>https://armfazh.github.io/publication/faz-ls-jcen-2015/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-longa-sanchez-2015/</guid>
+      <guid>https://armfazh.github.io/publication/faz-ls-jcen-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast Implementation of Curve25519 Using AVX2</title>
-      <link>https://armfazh.github.io/publication/faz-lopez-2015/</link>
+      <link>https://armfazh.github.io/publication/faz-lopez-latincrypt-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lopez-2015/</guid>
+      <guid>https://armfazh.github.io/publication/faz-lopez-latincrypt-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient and Secure Algorithms for GLV-Based Scalar Multiplication and Their Implementation on GLV-GLS Curves</title>
-      <link>https://armfazh.github.io/publication/faz-longa-sanchez-2014/</link>
+      <link>https://armfazh.github.io/publication/faz-ls-ctrsa-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-longa-sanchez-2014/</guid>
+      <guid>https://armfazh.github.io/publication/faz-ls-ctrsa-2014/</guid>
       <description></description>
     </item>
     

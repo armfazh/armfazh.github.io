@@ -14,33 +14,33 @@
     
     <item>
       <title>High-performance Implementation of Elliptic Curve Cryptography Using Vector Instructions</title>
-      <link>https://armfazh.github.io/publication/faz-lop-dah-toms-2019/</link>
+      <link>https://armfazh.github.io/publication/faz-ld-toms-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lop-dah-toms-2019/</guid>
+      <guid>https://armfazh.github.io/publication/faz-ld-toms-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Faster Software Implementation of the Supersingular Isogeny Diffie-Hellman Key Exchange Protocol</title>
-      <link>https://armfazh.github.io/publication/faz-lop-och-rod-2017/</link>
+      <link>https://armfazh.github.io/publication/faz-lor-ieeetc-2017/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lop-och-rod-2017/</guid>
+      <guid>https://armfazh.github.io/publication/faz-lor-ieeetc-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient and secure algorithms for GLV-based scalar multiplication and their implementation on GLV-GLS curves (extended version)</title>
-      <link>https://armfazh.github.io/publication/faz-longa-sanchez-2015/</link>
+      <link>https://armfazh.github.io/publication/faz-ls-jcen-2015/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-longa-sanchez-2015/</guid>
+      <guid>https://armfazh.github.io/publication/faz-ls-jcen-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speeding scalar multiplication over binary elliptic curves using the new carry-less multiplication instruction</title>
-      <link>https://armfazh.github.io/publication/tav-faz-ara-rod-han-lop-jcen-2011/</link>
+      <link>https://armfazh.github.io/publication/taverne-farhl-jcen-2011/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/tav-faz-ara-rod-han-lop-jcen-2011/</guid>
+      <guid>https://armfazh.github.io/publication/taverne-farhl-jcen-2011/</guid>
       <description></description>
     </item>
     

@@ -14,113 +14,113 @@
     
     <item>
       <title>Portunus: Re-imagining Access Control in Distributed Systems</title>
-      <link>https://armfazh.github.io/publication/portunus/</link>
+      <link>https://armfazh.github.io/publication/ladd-vvfmws-atc-2023/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/portunus/</guid>
+      <guid>https://armfazh.github.io/publication/ladd-vvfmws-atc-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Let The Right One In: Attestation as a Usable CAPTCHA Alternative</title>
-      <link>https://armfazh.github.io/publication/whalen-2022/</link>
+      <link>https://armfazh.github.io/publication/whalen-mkdfflmswgg-soups-2022/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/whalen-2022/</guid>
+      <guid>https://armfazh.github.io/publication/whalen-mkdfflmswgg-soups-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implementing and Measuring KEMTLS</title>
-      <link>https://armfazh.github.io/publication/celi-2021/</link>
+      <link>https://armfazh.github.io/publication/celi-fstvwww-latincrypt-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/celi-2021/</guid>
+      <guid>https://armfazh.github.io/publication/celi-fstvwww-latincrypt-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ZKAttest: Ring and Group Signatures for existing ECDSA keys</title>
-      <link>https://armfazh.github.io/publication/faz-ladd-maram-2021/</link>
+      <link>https://armfazh.github.io/publication/faz-lm-sac-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-ladd-maram-2021/</guid>
+      <guid>https://armfazh.github.io/publication/faz-lm-sac-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generation of Elliptic Curve Points in Tandem</title>
-      <link>https://armfazh.github.io/publication/faz-lopez-2020/</link>
+      <link>https://armfazh.github.io/publication/faz-lopez-sbseg-2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lopez-2020/</guid>
+      <guid>https://armfazh.github.io/publication/faz-lopez-sbseg-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to (Pre-)Compute a Ladder: Improving the Performance of X25519 and X448</title>
-      <link>https://armfazh.github.io/publication/oliveira-lhfr-2017/</link>
+      <link>https://armfazh.github.io/publication/oliveira-lhfr-sac-2017/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/oliveira-lhfr-2017/</guid>
+      <guid>https://armfazh.github.io/publication/oliveira-lhfr-sac-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SoK: A Performance Evaluation of Cryptographic Instruction Sets on Modern Architectures</title>
-      <link>https://armfazh.github.io/publication/faz-lop-oli-2018/</link>
+      <link>https://armfazh.github.io/publication/faz-lo-apkc-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lop-oli-2018/</guid>
+      <guid>https://armfazh.github.io/publication/faz-lo-apkc-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Secure and Efficient Implementation of the Quotient Digital Signature Algorithm (qDSA)</title>
-      <link>https://armfazh.github.io/publication/faz-fujii-aranha-lopez-2017/</link>
+      <link>https://armfazh.github.io/publication/faz-fal-space-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-fujii-aranha-lopez-2017/</guid>
+      <guid>https://armfazh.github.io/publication/faz-fal-space-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speeding up Elliptic Curve Cryptography on the P-384 Curve</title>
-      <link>https://armfazh.github.io/publication/faz-lopez-2016/</link>
+      <link>https://armfazh.github.io/publication/faz-lopez-sbseg-2016/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lopez-2016/</guid>
+      <guid>https://armfazh.github.io/publication/faz-lopez-sbseg-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast Implementation of Curve25519 Using AVX2</title>
-      <link>https://armfazh.github.io/publication/faz-lopez-2015/</link>
+      <link>https://armfazh.github.io/publication/faz-lopez-latincrypt-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lopez-2015/</guid>
+      <guid>https://armfazh.github.io/publication/faz-lopez-latincrypt-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Software Implementation of Arithmetic Operations on Prime Fields using AVX2</title>
-      <link>https://armfazh.github.io/publication/faz-lopez-2014/</link>
+      <link>https://armfazh.github.io/publication/faz-lopez-sbseg-2014/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lopez-2014/</guid>
+      <guid>https://armfazh.github.io/publication/faz-lopez-sbseg-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient and Secure Algorithms for GLV-Based Scalar Multiplication and Their Implementation on GLV-GLS Curves</title>
-      <link>https://armfazh.github.io/publication/faz-longa-sanchez-2014/</link>
+      <link>https://armfazh.github.io/publication/faz-ls-ctrsa-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-longa-sanchez-2014/</guid>
+      <guid>https://armfazh.github.io/publication/faz-ls-ctrsa-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Faster Implementation of Scalar Multiplication on Koblitz Curves</title>
-      <link>https://armfazh.github.io/publication/ara-faz-lop-rod-2012/</link>
+      <link>https://armfazh.github.io/publication/aranha-flr-latincrypt-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/ara-faz-lop-rod-2012/</guid>
+      <guid>https://armfazh.github.io/publication/aranha-flr-latincrypt-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software Implementation of Binary Elliptic Curves: Impact of the Carry-Less Multiplier on Scalar Multiplication</title>
-      <link>https://armfazh.github.io/publication/tav-faz-ara-rod-han-lop-ches-2011/</link>
+      <link>https://armfazh.github.io/publication/taverne-farhl-ches-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/tav-faz-ara-rod-han-lop-ches-2011/</guid>
+      <guid>https://armfazh.github.io/publication/taverne-farhl-ches-2011/</guid>
       <description></description>
     </item>
     

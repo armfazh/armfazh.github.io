@@ -14,33 +14,33 @@
     
     <item>
       <title>Implementación multinúcleo de la multiplicación escalar en curvas de Koblitz</title>
-      <link>https://armfazh.github.io/publication/armando-m-sc-thesis/</link>
+      <link>https://armfazh.github.io/publication/faz-master-thesis/</link>
       <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/armando-m-sc-thesis/</guid>
+      <guid>https://armfazh.github.io/publication/faz-master-thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Faster Implementation of Scalar Multiplication on Koblitz Curves</title>
-      <link>https://armfazh.github.io/publication/ara-faz-lop-rod-2012/</link>
+      <link>https://armfazh.github.io/publication/aranha-flr-latincrypt-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/ara-faz-lop-rod-2012/</guid>
+      <guid>https://armfazh.github.io/publication/aranha-flr-latincrypt-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speeding scalar multiplication over binary elliptic curves using the new carry-less multiplication instruction</title>
-      <link>https://armfazh.github.io/publication/tav-faz-ara-rod-han-lop-jcen-2011/</link>
+      <link>https://armfazh.github.io/publication/taverne-farhl-jcen-2011/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/tav-faz-ara-rod-han-lop-jcen-2011/</guid>
+      <guid>https://armfazh.github.io/publication/taverne-farhl-jcen-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software Implementation of Binary Elliptic Curves: Impact of the Carry-Less Multiplier on Scalar Multiplication</title>
-      <link>https://armfazh.github.io/publication/tav-faz-ara-rod-han-lop-ches-2011/</link>
+      <link>https://armfazh.github.io/publication/taverne-farhl-ches-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/tav-faz-ara-rod-han-lop-ches-2011/</guid>
+      <guid>https://armfazh.github.io/publication/taverne-farhl-ches-2011/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,42 @@
+@phdthesis{faz_phd_thesis,
+ abstract = {Cryptography based on elliptic curves is endowed with
+efficient methods for public-key cryptography. Recent research has
+shown the superiority of the Montgomery and Edwards curves over the
+Weierstrass curves as they require fewer arithmetic operations.
+Using these modern curves has, however, introduced several challenges
+to the cryptographic algorithm’s design, opening up new opportunities
+for optimization. Our main objective is to propose algorithmic
+optimizations and implementation techniques for cryptographic
+algorithms based on elliptic curves. In order to speed up the
+execution of these algorithms, our approach relies on the use of
+extensions to the instruction set architecture. In addition to those
+specific for cryptography, we use extensions that follow the Single
+Instruction, Multiple Data (SIMD) parallel computing paradigm. In
+this model, the processor executes the same operation over a set of
+data in parallel. We investigated how to apply SIMD to the
+implementation of elliptic curve algorithms. As part of our
+contributions, we design parallel algorithms for prime field and
+elliptic curve arithmetic. We also design a new three-point ladder
+algorithm for the scalar multiplication $P+kQ$, and a faster formula
+for calculating $3P$ on Montgomery curves. These algorithms have
+found applicability in isogeny-based cryptography. Using SIMD
+extensions such as SSE, AVX, and AVX2, we develop optimized
+implementations of the following cryptographic algorithms: X25519,
+X448, SIDH, ECDH, ECDSA, EdDSA, and qDSA. Performance benchmarks
+show that these implementations are faster than existing
+implementations in the state of the art. Our study confirms that
+using extensions to the instruction set architecture is an effective
+tool for optimizing implementations of cryptographic algorithms based
+on elliptic curves. May this be an incentive not only for those
+seeking to speed up programs in general but also for computer
+manufacturers to include more advanced extensions that support the
+increasing demand for cryptography.},
+ address = {Campinas, Brazil},
+ author = {Faz-Hernández, Armando},
+ keywords = {elliptic curves, SIMD, AVX2, Curve25519, digital signatures},
+ month = {sep},
+ school = {University of Campinas},
+ title = {High-Performance Elliptic Curve Cryptography: A SIMD Approach to Modern Curves},
+ url = {https://hdl.handle.net/20.500.12733/6756},
+ year = {2022}
+}

@@ -14,57 +14,57 @@
     
     <item>
       <title>High-Performance Elliptic Curve Cryptography: A SIMD Approach to Modern Curves</title>
-      <link>https://armfazh.github.io/publication/armfazh-ph-d/</link>
+      <link>https://armfazh.github.io/publication/faz-phd-thesis/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/armfazh-ph-d/</guid>
+      <guid>https://armfazh.github.io/publication/faz-phd-thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generation of Elliptic Curve Points in Tandem</title>
-      <link>https://armfazh.github.io/publication/faz-lopez-2020/</link>
+      <link>https://armfazh.github.io/publication/faz-lopez-sbseg-2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lopez-2020/</guid>
+      <guid>https://armfazh.github.io/publication/faz-lopez-sbseg-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-performance Implementation of Elliptic Curve Cryptography Using Vector Instructions</title>
-      <link>https://armfazh.github.io/publication/faz-lop-dah-toms-2019/</link>
+      <link>https://armfazh.github.io/publication/faz-ld-toms-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lop-dah-toms-2019/</guid>
+      <guid>https://armfazh.github.io/publication/faz-ld-toms-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SoK: A Performance Evaluation of Cryptographic Instruction Sets on Modern Architectures</title>
-      <link>https://armfazh.github.io/publication/faz-lop-oli-2018/</link>
+      <link>https://armfazh.github.io/publication/faz-lo-apkc-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lop-oli-2018/</guid>
+      <guid>https://armfazh.github.io/publication/faz-lo-apkc-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speeding up Elliptic Curve Cryptography on the P-384 Curve</title>
-      <link>https://armfazh.github.io/publication/faz-lopez-2016/</link>
+      <link>https://armfazh.github.io/publication/faz-lopez-sbseg-2016/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lopez-2016/</guid>
+      <guid>https://armfazh.github.io/publication/faz-lopez-sbseg-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast Implementation of Curve25519 Using AVX2</title>
-      <link>https://armfazh.github.io/publication/faz-lopez-2015/</link>
+      <link>https://armfazh.github.io/publication/faz-lopez-latincrypt-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lopez-2015/</guid>
+      <guid>https://armfazh.github.io/publication/faz-lopez-latincrypt-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Software Implementation of Arithmetic Operations on Prime Fields using AVX2</title>
-      <link>https://armfazh.github.io/publication/faz-lopez-2014/</link>
+      <link>https://armfazh.github.io/publication/faz-lopez-sbseg-2014/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://armfazh.github.io/publication/faz-lopez-2014/</guid>
+      <guid>https://armfazh.github.io/publication/faz-lopez-sbseg-2014/</guid>
       <description></description>
     </item>
     
