@@ -1,0 +1,17 @@
+@inproceedings{cabral_faz_lopez_apkc2026,
+ abstract = {Post-Quantum Cryptography (PQC) aims to secure digital communications against adversaries powered by quantum computers. To be useful, PQC algorithms must be both secure and fast. The Hamming Quasi-Cyclic (HQC) key encapsulation mechanism is a primary code-based alternative to lattice-based standards such as ML-KEM. However, initial benchmarks on Intel processors using AVX2 show that HQC is 9.5x slower than ML-KEM. In this paper, we show that careful analysis and optimization of the implementation can substantially narrow this gap. Using AVX-512 instructions in conjunction with architecture-independent refinements, we significantly accelerated internal HQC operations, including the Reed-Muller decoding step, polynomial multiplications, and the SHA3 hash function. These improvements narrow the performance gap between HQC and ML-KEM to 5.6x. Our contribution brings high-performance implementations of alternative schemes like HQC that are essential for long-term cryptographic agility.},
+ address = {New York, NY, USA},
+ author = {Roberto Cabral and Armando Faz-Hernandez and Julio López},
+ booktitle = {Proceedings of the ACM ASIA Public-Key Cryptography Workshop},
+ doi = {10.1145/3803627.3805815},
+ isbn = {9798400725777},
+ keywords = {Post-Quantum Cryptography, Code-based Cryptography, HQC, AVX-512, VPCLMULQDQ, SIMD},
+ location = {Bangalore, India},
+ numpages = {10},
+ pages = {1--10},
+ publisher = {Association for Computing Machinery},
+ series = {APKC '26},
+ title = {Accelerating HQC Key Encapsulation Mechanism with AVX-512},
+ url = {https://doi.org/10.1145/3803627.3805815},
+ year = {2026}
+}
