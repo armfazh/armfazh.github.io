@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>https://armfazh.github.io/software/</loc>
-    <lastmod>2026-09-06</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -80,49 +80,55 @@
   </url>
   <url>
     <loc>https://armfazh.github.io/talks/aimath_pqgroup/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://armfazh.github.io/talks/aimath_quantum/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://armfazh.github.io/talks/ascrypto2021_h2c/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://armfazh.github.io/talks/cyberq2025_pqc/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://armfazh.github.io/talks/mpts2023_tls/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://armfazh.github.io/talks/mpts2023_voprf/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://armfazh.github.io/talks/nist_crc_h2c/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://armfazh.github.io/talks/rci2024_bits/</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://armfazh.github.io/talks/rci2026_anon/</loc>
+    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
